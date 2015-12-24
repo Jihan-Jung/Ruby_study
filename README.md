@@ -1,2 +1,2 @@
 # Ruby_study
-Hello &amp; Welcome everybody _ Having a nice day~
+Hello &amp; Welcome everybody _ Having a nice day~!!
